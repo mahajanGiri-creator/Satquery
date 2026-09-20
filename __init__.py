@@ -1,3 +1,3 @@
-from .georeason_verifier import GeoReasonVerifier
+from .registry import EvidenceRegistry
 
-__all__ = ["GeoReasonVerifier"]
+__all__ = ["EvidenceRegistry"]
